@@ -2,7 +2,7 @@
 ---------------------------------------
 ### prerequisite ###
 默认安装好 Java、Eclipse、Tomcat环境
----------------------------------------
+<br />
 ### run ###
 1. 打开 Eclipse ，点击选项卡中的 windows -> Preferences -> server runtime environments -> add -> Apache Tomcat v7.0(本项目用的是7.0) -> Next -> 选择 Tomcat 的安装路径 -> finish -> ok;
 2. 项目右键 -> build path -> configure Build Path -> Add Library -> Server Runtime -> Next -> 选择第1步建的 Apache Tomcat v7.0 -> finish -> Ok;
