@@ -1,4 +1,4 @@
 ## Article Web ##
 
 ### run ###
-´ò¿ªä¯ÀÀÆ÷,ÊäÈëhttp://localhost:8080/article/index.jsp
+1. æ‰“å¼€æµè§ˆå™¨ï¼Œè¾“å…¥ç½‘å€ï¼šhttp://localhost:8080/article/index.jsp
